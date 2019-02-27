@@ -1,0 +1,17 @@
+C:\Users\kirklewskip\source\repos\Voting\VotingData\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+C:\Users\kirklewskip\source\repos\Voting\VotingData\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+C:\Users\kirklewskip\source\repos\Voting\VotingData\bin\Debug\netcoreapp2.1\win7-x64\VotingData.exe
+C:\Users\kirklewskip\source\repos\Voting\VotingData\bin\Debug\netcoreapp2.1\win7-x64\VotingData.deps.json
+C:\Users\kirklewskip\source\repos\Voting\VotingData\bin\Debug\netcoreapp2.1\win7-x64\VotingData.runtimeconfig.json
+C:\Users\kirklewskip\source\repos\Voting\VotingData\bin\Debug\netcoreapp2.1\win7-x64\VotingData.runtimeconfig.dev.json
+C:\Users\kirklewskip\source\repos\Voting\VotingData\bin\Debug\netcoreapp2.1\win7-x64\VotingData.dll
+C:\Users\kirklewskip\source\repos\Voting\VotingData\bin\Debug\netcoreapp2.1\win7-x64\VotingData.pdb
+C:\Users\kirklewskip\source\repos\Voting\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.csprojAssemblyReference.cache
+C:\Users\kirklewskip\source\repos\Voting\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.csproj.CoreCompileInputs.cache
+C:\Users\kirklewskip\source\repos\Voting\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.RazorAssemblyInfo.cache
+C:\Users\kirklewskip\source\repos\Voting\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.RazorAssemblyInfo.cs
+C:\Users\kirklewskip\source\repos\Voting\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.AssemblyInfoInputs.cache
+C:\Users\kirklewskip\source\repos\Voting\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.AssemblyInfo.cs
+C:\Users\kirklewskip\source\repos\Voting\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.RazorTargetAssemblyInfo.cache
+C:\Users\kirklewskip\source\repos\Voting\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.dll
+C:\Users\kirklewskip\source\repos\Voting\VotingData\obj\Debug\netcoreapp2.1\win7-x64\VotingData.pdb
